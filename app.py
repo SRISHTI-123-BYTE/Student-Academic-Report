@@ -1,6 +1,6 @@
 students = [
     (101, "Srishti", 97),
-    (102, "Shreya", 92),
+    (102, "Shreya", 85),
     (103, "Sanya", 76),
     (104, "Sneha", 84)
 ]
